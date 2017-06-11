@@ -40,6 +40,7 @@
   []
   (comp
    (watch)
-   (cljs :source-map true)
+   (cljs :source-map true
+         :optimizations :none)
    (reload)
    (run)))
