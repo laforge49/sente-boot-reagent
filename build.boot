@@ -19,7 +19,7 @@
                  [ring/ring-defaults        "0.3.0"] ; Includes `ring-anti-forgery`, etc.
 
                  [compojure                 "1.6.0"] ; Or routing lib of your choice
-                 [hiccup                    "1.0.5"] ; Optional, just for HTML
+                 [reagent "0.6.0"]
 
    ;;; Transit deps optional; may be used to aid perf. of larger data payloads
    ;;; (see reference example for details):
