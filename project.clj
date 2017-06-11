@@ -12,6 +12,7 @@
    [com.taoensso/timbre "4.7.4"]
    [http-kit "2.2.0"]
    [ring "1.6.1"]
+   [ring/ring-core "1.6.1"]
    [ring/ring-defaults "0.3.0"]
    [compojure "1.6.0"]
    [hiccup "1.0.5"]
